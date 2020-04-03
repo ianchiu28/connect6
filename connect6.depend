@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1396074384 source:c:\users\yenchia\desktop\connect6\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1397552658 source:c:\users\yenchia28\desktop\connect6\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1397552658 source:c:\users\yenchia28\desktop\me connect6\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1402293319 source:c:\users\yenchia28\desktop\negamax virsion\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1402300393 source:c:\users\yenchia28\desktop\1d virsion\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1402562512 source:c:\users\csie\desktop\version 4\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403004140 source:c:\documents and settings\csie\桌面\version 5 ed\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1402922514 source:c:\users\csie\desktop\version 5 ed\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403071072 source:c:\documents and settings\csie\桌面\version 6\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403078541 source:c:\documents and settings\csie\桌面\version 6 ed\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403092237 source:c:\documents and settings\csie\桌面\version 8\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403179317 source:c:\users\yenchia\desktop\version 9\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
+1403278673 source:c:\users\yenchia\desktop\version 10 ed\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+

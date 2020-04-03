@@ -35,7 +35,7 @@ Connect6. Strategy game similar to Gomoku. The one who gets six or more stones i
 因六子棋一次下兩子，若採用暴力展開，要展開361*361個盤面，速度實在太慢，
 故我採用的方法為，在做alphabeta之前，先去為當下的盤面做上標記，以每顆盤面上的棋子往外延伸兩格，做上標記。
 
-![example1]](images/example1.png)  
+![example1](images/example1.png)  
 (請忽略周圍黑子)
 
 如圖，若下了正中間黑子，則旁邊白子為標記的部分。
